@@ -1,3 +1,3 @@
 # Angular-Tour-of-Heros
-Angular JS official tutorial for beginner
+Angular JS official tutorial for beginner <br/>
 Retrieved from [Agular.cn](https://angular.cn/docs/ts/latest/tutorial/toh-pt1.html)
