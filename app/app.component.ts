@@ -6,6 +6,7 @@ export class Hero {
 }
 
 @Component({
+
   selector: 'my-app',
   template: `
     <h1>{{title}}</h1>
