@@ -16,6 +16,6 @@ import { Hero } from './hero';
 })
 
 export class HeroDetailComponent {
-  @Input()
+  @Input() // '目标属性'必须前置@Input()方可与源属性绑定
   hero:Hero;
 }
