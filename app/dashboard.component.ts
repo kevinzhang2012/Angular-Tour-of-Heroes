@@ -4,7 +4,7 @@ import { Hero } from './hero';
 import { HeroService } from './hero.service';
 
 @Component({
-  moduleId: module.id, // Complied error
+  moduleId: module.id, // Complied error on Atom
   selector: 'my-dashboard',
   templateUrl: 'dashboard.component.html',
 })
